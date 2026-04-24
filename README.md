@@ -1,6 +1,6 @@
 # pcb-industry-knowledge
 
-PCB / IC载板行业研究与制造质量工具知识库（Cursor Agent Skill）。
+PCB / IC载板行业研究与制造质量工具知识库（Agent Skill）。
 
 ## 这是什么
 
