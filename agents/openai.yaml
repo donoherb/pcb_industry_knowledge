@@ -1,4 +1,0 @@
-interface:
-  display_name: "PCB/载板行业知识库"
-  short_description: "用于PCB与IC载板行业研究、公司分析、技术路线、项目判断和跨skill知识调用的本地知识库，强调稳定知识与动态事实分离。"
-  default_prompt: "使用PCB/载板行业知识库，先识别任务边界、产品段和时间口径，再选择参考章节；其他skill调用时先读跨skill接口；稳定知识用于搭建分析框架，动态事实必须标注来源、日期和待核验项。"
